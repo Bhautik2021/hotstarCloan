@@ -1,0 +1,5 @@
+step -1 :- npx create-react-app my-app --template redux
+
+npm i styled-components
+npm i react-slick
+npm install slick-carousel
